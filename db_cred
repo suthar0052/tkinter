@@ -1,0 +1,4 @@
+user:postgres
+password:04111987A
+host:localhost
+port:5432
